@@ -1,26 +1,8 @@
 # 💻Durvankur Rajam🎧
 
-#
-
 *`Digital Craftsman (Developer/Creator)`*
 
 #
-
-### Connect with me:
-
-[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@durvax2340#gh-light-mode-only)
-[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@durvax2340#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://x.com/Durvankurrr#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://x.com/Durvankurrr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/durvankurrr/#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/durvankurrr/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,6 +18,26 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+### Connect with me:
+
+[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@durvax2340#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@durvax2340#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://x.com/Durvankurrr#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://x.com/Durvankurrr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/durvankurrr/#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/durvankurrr/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+
+
 
 
 
