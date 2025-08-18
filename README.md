@@ -4,8 +4,6 @@
 *`Digital Craftsman (Developer/Creator)`*
 </div>
 
-#
-
 <table>
   <tr>
     <td width="300">
