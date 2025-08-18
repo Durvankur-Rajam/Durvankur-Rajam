@@ -13,17 +13,19 @@
     </td>
     <td valign="center" width="700">
      
-  <div align="top">  
+<div align="top">  
+  <p style="font-size:18px; line-height:1.5;">
     
-  ### 🌟 About Me  
+   ### 🌟 About Me  
 
-  🎓 MCA student & aspiring software developer  
-  ☕ Passionate about **Java, MySQL and Web Devlopment**  
-  🤖 Exploring **AI/ML with Python & computer vision**  
-  🚀 Love turning ideas into projects that actually work  
-  📚 Currently learning **Spring Boot & REST API**
-                                     
-  </div>
+  🎓 MCA student & aspiring software developer<br>
+  ☕ Passionate about <b>Java, MySQL and Web Development</b><br>
+  🤖 Exploring <b>AI/ML with Python & computer vision</b><br>
+  🚀 Love turning ideas into projects that actually work<br>
+  📚 Currently learning <b>Spring Boot & REST API</b>
+  </p>
+</div>
+
       
   </td>
   </tr>
