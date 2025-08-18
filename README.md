@@ -8,21 +8,21 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![YouTube](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://x.com/Durvankurrr#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://x.com/Durvankurrr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/durvankur-rajam/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/durvankurrr/#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/durvankurrr/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Discord](./img/discord-light.svg)](https://discord.gg/durvankurr#gh-light-mode-only)
+[![Discord](./img/discord-dark.svg)](https://discord.gg/durvankurr#gh-dark-mode-only)
 
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 
