@@ -2,7 +2,7 @@
 
 #
 
-**`Digital Craftsman (Developer/Creator)`*
+*`Digital Craftsman (Developer/Creator)`*
 
 #
 
