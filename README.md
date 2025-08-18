@@ -6,22 +6,23 @@
 
 #
 
-<!-- LinkedIn -->
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px; color:#0077B5;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" onclick="window.open('https://www.linkedin.com/in/jonah-lawrence/','_blank')" title="LinkedIn" />
+### Connect with me:
 
-<!-- Twitter -->
-<a href="https://x.com/Durvankurrr" target="_blank">
-  <img align="left" alt="Twitter" width="30px" style="padding-right:10px; background-color:white; border-radius:5px;" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" 
-       title="Twitter" />
-</a>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 
-
-<!-- Discord -->
-<img align="left" alt="Discord" width="30px" style="padding-right:10px; " src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" onclick="window.open('https://discord.gg/fPrdqh3Zfu','_blank')" title="Discord" />
-
-<br />
-
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### 🧰 Languages and Tools
 
