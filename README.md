@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![YouTube](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![YouTube](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@durvax2340#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@durvax2340#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://x.com/Durvankurrr#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://x.com/Durvankurrr#gh-dark-mode-only)
