@@ -8,22 +8,24 @@
 
 <table>
   <tr>
-    <td width="300">
-      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="300" />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="280" style="border-radius:10px;" />
     </td>
-    <td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+     
       
-### 🌟 About Me  
+## 🌟 About Me  
 
-🎓 MCA student & aspiring software developer  
+🎓 MCA student & aspiring **Software Developer**  
 ☕ Passionate about **Java, MySQL, and Android development**  
-🤖 Exploring **AI/ML with Python & computer vision**  
-🚀 Love turning ideas into projects that actually work  
+🤖 Exploring **AI/ML with Python & Computer Vision**  
+🚀 Love turning ideas into projects that actually *work*  
 📚 Currently learning **Spring Boot & REST API**  
 
- 
+   </td>
   </tr>
 </table>
+
 
 #
 ### 🧰 Languages and Tools
