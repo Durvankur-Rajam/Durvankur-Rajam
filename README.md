@@ -8,22 +8,27 @@
 
 <table>
   <tr>
-    <td width="260">
-      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="300" />
+    <td width="600">
+      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="280" />
     </td>
-    <td>
+    <td valign="middle">
+      <div>
+        
+  ### 🌟 About Me  
+
+  🎓 MCA student & aspiring software developer  
+  ☕ Passionate about **Java, MySQL, and Android development**  
+  🤖 Exploring **AI/ML with Python & computer vision**  
+  🚀 Love turning ideas into projects that actually work  
+  📚 Currently learning **Spring Boot & REST API**
+        
+                             
+  </div>
       
-### 🌟 About Me  
-
-🎓 MCA student & aspiring software developer  
-☕ Passionate about **Java, MySQL, and Android development**  
-🤖 Exploring **AI/ML with Python & computer vision**  
-🚀 Love turning ideas into projects that actually work  
-📚 Currently learning **Spring Boot & REST API**  
-
   </td>
   </tr>
 </table>
+
 
 
 #
