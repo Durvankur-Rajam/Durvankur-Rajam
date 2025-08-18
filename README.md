@@ -8,13 +8,13 @@
 
 <table>
   <tr>
-    <td width="250">
+    <td width="300">
       <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="280" />
     </td>
     <td valign="center" width="700">
      
-  <div>
-        
+  <div align="top">  
+    
   ### 🌟 About Me  
 
   🎓 MCA student & aspiring software developer  
