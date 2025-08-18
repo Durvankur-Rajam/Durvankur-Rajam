@@ -1,9 +1,11 @@
 <div align="center">
   
-# 💻Durvankur Rajam🎧
+## 💻Durvankur Rajam🎧
 *`Digital Craftsman (Developer/Creator)`*
+
 </div>
 
+#
 <table>
   <tr>
     <td width="300">
@@ -16,7 +18,7 @@
   ### 🌟 About Me  
 
   🎓 MCA student & aspiring software developer  
-  ☕ Passionate about **Java, MySQL, and Android development**  
+  ☕ Passionate about **Java, MySQL and Web Devlopment**  
   🤖 Exploring **AI/ML with Python & computer vision**  
   🚀 Love turning ideas into projects that actually work  
   📚 Currently learning **Spring Boot & REST API**
