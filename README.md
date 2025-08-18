@@ -20,9 +20,6 @@
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/durvankurrr/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/durvankurrr/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Discord](./img/discord-light.svg)](https://discord.gg/durvankurr#gh-light-mode-only)
-[![Discord](./img/discord-dark.svg)](https://discord.gg/durvankurr#gh-dark-mode-only)
-
 
 ### 🧰 Languages and Tools
 
