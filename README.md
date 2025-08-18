@@ -21,10 +21,9 @@
 🚀 Love turning ideas into projects that actually work  
 📚 Currently learning **Spring Boot & REST API**  
 
-    </td>
+ 
   </tr>
 </table>
-
 
 #
 ### 🧰 Languages and Tools
