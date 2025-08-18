@@ -6,13 +6,13 @@
 
 #
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="280" style="border-radius:10px;" />
+    <td align="center" width="35%">
+      <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="250" style="border-radius:12px;" />
     </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-     
+
+  <td width="65%" style="padding-left: 20px; vertical-align: middle;">
       
 ## 🌟 About Me  
 
@@ -22,7 +22,7 @@
 🚀 Love turning ideas into projects that actually *work*  
 📚 Currently learning **Spring Boot & REST API**  
 
-   </td>
+  </td>
   </tr>
 </table>
 
