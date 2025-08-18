@@ -8,11 +8,12 @@
 
 <table>
   <tr>
-    <td width="600">
+    <td width="250">
       <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="280" />
     </td>
-    <td valign="middle">
-      <div>
+    <td valign="center" width="700">
+     
+  <div>
         
   ### 🌟 About Me  
 
@@ -21,8 +22,7 @@
   🤖 Exploring **AI/ML with Python & computer vision**  
   🚀 Love turning ideas into projects that actually work  
   📚 Currently learning **Spring Boot & REST API**
-        
-                             
+                                     
   </div>
       
   </td>
