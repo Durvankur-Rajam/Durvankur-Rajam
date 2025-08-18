@@ -1,10 +1,10 @@
 <div align="center">
-
 # 💻Durvankur Rajam🎧
-
+  
 *`Digital Craftsman (Developer/Creator)`*
-
 </div>
+
+#
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/abdcef73-c225-425d-8328-d8ce7f2e1894" width="300" />
