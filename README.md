@@ -16,7 +16,7 @@
 <div align="top">  
   <p style="font-size:18px; line-height:1.5;">
     
-   ### 🌟 About Me  
+   ### 🌟 About Me
 
   🎓 MCA student & aspiring software developer<br>
   ☕ Passionate about <b>Java, MySQL and Web Development</b><br>
