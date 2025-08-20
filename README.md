@@ -53,7 +53,7 @@
 <br />
 
 #
-### Connect with me:
+### 🌐 Connect with me:
 
 [![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@durvax2340#gh-light-mode-only)
 [![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@durvax2340#gh-dark-mode-only)
